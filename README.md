@@ -1,0 +1,1 @@
+This is my first project creating a copy of the google engine search page, demostrating the capacity to create a web page through the use of the respective html file to make the structure of it, and the apropiate styling with CSS, to positioning the elements and make the page look as similar of the original.  
