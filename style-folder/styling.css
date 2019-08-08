@@ -1,0 +1,196 @@
+html {
+    width: 325px;
+}
+
+body {
+    font-size: small;
+    
+}
+.mail, .pics, .apps, .login {
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 1057px;   
+}
+
+.login {
+    border: 1px solid #4285f4;
+    background-color: #4285f4;
+    font-weight:  bold;
+    outline: none;
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 2px;
+    height: 10;
+    width: 58;
+}    
+
+.mail {
+    padding-right: 10px;
+}
+
+.pics {
+    padding-right: 10px;
+}
+
+.apps {
+    padding-right: 10px;
+}
+
+.login a {
+    background-color: #4285f4;
+    color: #fff;
+    text-decoration: none;
+}
+
+.mail a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.pics a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.apps a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+body, a, p {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+.logo, .mainform {
+    display: block;
+    position: relative;
+    top: 160px; 
+    left: 550px; 
+}
+
+.logo {
+    size: 272px 92px;
+    align-content: center;
+}
+.mainform {
+    top: 185px;
+}
+
+#search-bar {
+    width: 600px;
+    height: 38px;
+    border-width: 0.5px;
+    border-radius: 1em;
+    position: relative;
+    right: 164px;
+    border-color: rgba(128, 139, 150, 0.322);
+}
+#submit-g {
+    position: relative;
+    right: 28px;
+    top: 26px;
+    border-color: #fff;
+    background-color: #fff;
+    border-width: 0.4px;
+    border-radius: 1em;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    color: #222;
+}
+
+#lucky {
+    position: relative;
+    left: 5px;
+    top: 26px;
+    border-color: #fff;
+    background-color: #fff;
+    border-width: 0.4px;
+    border-radius: 1em;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    color: #222; 
+}
+
+
+.offered {
+    display:block;
+    position: relative;
+    top: 235px;
+    left: 550px;
+}
+.country {
+    display: block;
+    position: relative;
+    top: 288px;
+    left: 30px;
+    font-size: 15px;
+    color:  rgba(76, 80, 83, 0.774);
+}
+
+hr {
+    position: relative;
+    right: 33px;
+    width: 1353px;
+    border-color: rgba(128, 139, 150, 0.137);
+}
+
+p {
+    height: 14px;
+    justify-items: center;
+}
+
+.btb{
+    display: inline-block;
+    position: relative;
+    width: 1000px;
+    top: 295px;
+    left: 30px;
+    font-size: 13px;
+}
+
+ul a {
+    color:  rgba(76, 80, 83, 0.774);
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    display: inline-block;
+}
+
+#priv, #condi, #prefe {
+    position: relative;
+    left: 740px;
+}
+
+#priv {
+    position: relative;
+    left: 695px; 
+}
+
+#condi {
+    position: relative;
+    left: 718px; 
+}
+
+#nego {
+    position: relative;
+    left: 20px; 
+}
+
+#about {
+    position: relative;
+    left: 40px; 
+}
+
+#how {
+    position: relative;
+    left: 60px; 
+}
